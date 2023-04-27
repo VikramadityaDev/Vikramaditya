@@ -7,5 +7,5 @@
 ### Languages and Tools:
 
 - Languages - C, Dart, Java
-- Database - MySQL, FireBase
-- Development - Tools Android Studio, Git, Intellij Idea
+- Database - MySQL, FireBase, Supabase
+- Development - Tools Android Studio, Git, Intellij Idea, VS Code
